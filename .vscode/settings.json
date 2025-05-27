@@ -1,5 +1,8 @@
 {
     "cSpell.words": [
         "Mashrafi"
-    ]
+    ],
+    "files.associations": {
+        "iomanip": "cpp"
+    }
 }
