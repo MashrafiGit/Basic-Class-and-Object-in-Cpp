@@ -3,6 +3,7 @@
         "Mashrafi"
     ],
     "files.associations": {
-        "iomanip": "cpp"
+        "iomanip": "cpp",
+        "iostream": "cpp"
     }
 }
